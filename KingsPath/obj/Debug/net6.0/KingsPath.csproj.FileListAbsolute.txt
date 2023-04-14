@@ -1,0 +1,15 @@
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/bin/Debug/net6.0/KingsPath
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/bin/Debug/net6.0/KingsPath.deps.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/bin/Debug/net6.0/KingsPath.runtimeconfig.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/bin/Debug/net6.0/KingsPath.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/bin/Debug/net6.0/KingsPath.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.csproj.AssemblyReference.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.AssemblyInfoInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.AssemblyInfo.cs
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.csproj.CoreCompileInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/refint/KingsPath.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/KingsPath.genruntimeconfig.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/KingsPath/obj/Debug/net6.0/ref/KingsPath.dll
