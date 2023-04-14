@@ -1,0 +1,15 @@
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/bin/Debug/net6.0/MatrixMultip
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/bin/Debug/net6.0/MatrixMultip.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/bin/Debug/net6.0/MatrixMultip.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.csproj.AssemblyReference.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.AssemblyInfoInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.AssemblyInfo.cs
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.csproj.CoreCompileInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/refint/MatrixMultip.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/bin/Debug/net6.0/MatrixMultip.deps.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/bin/Debug/net6.0/MatrixMultip.runtimeconfig.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/MatrixMultip.genruntimeconfig.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/MatrixMultip/obj/Debug/net6.0/ref/MatrixMultip.dll
