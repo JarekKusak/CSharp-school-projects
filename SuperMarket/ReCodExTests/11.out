@@ -1,0 +1,50 @@
+<0> Andrej: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Babis: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Andrej's queue.]
+<1> [Customer1 started to be served by Andrej.]
+<2> [Customer2 goes to Babis's queue.]
+<2> [Customer2 started to be served by Babis.]
+<3> [Customer3 goes to Andrej's queue.]
+<4> [Customer4 goes to Babis's queue.]
+<5> [Customer1 was served by Andrej.]
+<5> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<5> Andrej: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<5> Customer3: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<5> [Customer3 left Andrej's queue.]
+<5> [Customer3 goes to Babis's queue.]
+<5> [Customer5 goes to Babis's queue.]
+<6> Customer6: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<6> Customer6: "Sbohem. Sem uz teda nikdy nepachnu."
+<7> Customer7: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<7> Customer7: "Sbohem. Sem uz teda nikdy nepachnu."
+<8> Customer8: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<8> Customer8: "Sbohem. Sem uz teda nikdy nepachnu."
+<9> Customer9: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<9> Customer9: "Sbohem. Sem uz teda nikdy nepachnu."
+<10> Customer10: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<10> Customer10: "Sbohem. Sem uz teda nikdy nepachnu."
+<12> Andrej: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<12> [Customer2 was served by Babis.]
+<12> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<12> Babis: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<12> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer5 left Babis's queue.]
+<12> [Customer5 goes to Andrej's queue.]
+<12> Customer3: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer3 left Babis's queue.]
+<12> [Customer3 goes to Andrej's queue.]
+<12> Customer4: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer4 left Babis's queue.]
+<12> [Customer4 goes to Andrej's queue.]
+<12> [Customer5 started to be served by Andrej.]
+<16> [Customer5 was served by Andrej.]
+<16> Customer5: "Na shledanou. Tesim se na pristi navstevu."
+<16> [Customer3 started to be served by Andrej.]
+<19> Babis: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<19> Babis: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<20> [Customer3 was served by Andrej.]
+<20> Customer3: "Na shledanou. Tesim se na pristi navstevu."
+<20> [Customer4 started to be served by Andrej.]
+<24> [Customer4 was served by Andrej.]
+<24> Customer4: "Na shledanou. Tesim se na pristi navstevu."
+<24> Andrej: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

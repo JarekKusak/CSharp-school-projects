@@ -1,0 +1,639 @@
+<0> Alex: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Bimbo: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Alex's queue.]
+<1> [Customer1 started to be served by Alex.]
+<2> [Customer2 goes to Bimbo's queue.]
+<2> [Customer2 started to be served by Bimbo.]
+<3> [Customer3 goes to Alex's queue.]
+<4> [Customer4 goes to Bimbo's queue.]
+<5> [Customer5 goes to Alex's queue.]
+<6> [Customer1 was served by Alex.]
+<6> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<6> Alex: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<6> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<6> [Customer5 left Alex's queue.]
+<6> [Customer5 goes to Bimbo's queue.]
+<6> Customer3: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<6> [Customer3 left Alex's queue.]
+<6> [Customer3 goes to Bimbo's queue.]
+<6> [Customer6 goes to Bimbo's queue.]
+<7> [Customer7 goes to Bimbo's queue.]
+<8> [Customer8 goes to Bimbo's queue.]
+<9> [Customer9 goes to Bimbo's queue.]
+<10> [Customer10 goes to Bimbo's queue.]
+<11> [Customer11 goes to Bimbo's queue.]
+<12> [Customer12 goes to Bimbo's queue.]
+<13> Alex: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<13> [Customer13 goes to Alex's queue.]
+<13> [Customer13 started to be served by Alex.]
+<14> [Customer14 goes to Alex's queue.]
+<15> [Customer15 goes to Alex's queue.]
+<16> [Customer16 goes to Alex's queue.]
+<17> [Customer17 goes to Alex's queue.]
+<18> [Customer13 was served by Alex.]
+<18> Customer13: "Na shledanou. Tesim se na pristi navstevu."
+<18> [Customer18 goes to Alex's queue.]
+<18> [Customer14 started to be served by Alex.]
+<19> [Customer19 goes to Alex's queue.]
+<20> [Customer20 goes to Alex's queue.]
+<21> [Customer21 goes to Alex's queue.]
+<22> [Customer22 goes to Alex's queue.]
+<23> [Customer14 was served by Alex.]
+<23> Customer14: "Na shledanou. Tesim se na pristi navstevu."
+<23> [Customer23 goes to Alex's queue.]
+<23> [Customer15 started to be served by Alex.]
+<24> [Customer24 goes to Alex's queue.]
+<25> [Customer25 goes to Alex's queue.]
+<26> [Customer26 goes to Alex's queue.]
+<27> [Customer27 goes to Bimbo's queue.]
+<28> [Customer15 was served by Alex.]
+<28> Customer15: "Na shledanou. Tesim se na pristi navstevu."
+<28> [Customer28 goes to Alex's queue.]
+<28> [Customer16 started to be served by Alex.]
+<29> [Customer29 goes to Alex's queue.]
+<30> [Customer30 goes to Bimbo's queue.]
+<31> [Customer31 goes to Alex's queue.]
+<32> [Customer32 goes to Bimbo's queue.]
+<33> [Customer16 was served by Alex.]
+<33> Customer16: "Na shledanou. Tesim se na pristi navstevu."
+<33> [Customer33 goes to Alex's queue.]
+<33> [Customer17 started to be served by Alex.]
+<34> [Customer34 goes to Alex's queue.]
+<35> [Customer35 goes to Bimbo's queue.]
+<36> [Customer36 goes to Alex's queue.]
+<37> [Customer37 goes to Bimbo's queue.]
+<38> [Customer17 was served by Alex.]
+<38> Customer17: "Na shledanou. Tesim se na pristi navstevu."
+<38> [Customer38 goes to Alex's queue.]
+<38> [Customer18 started to be served by Alex.]
+<39> [Customer39 goes to Alex's queue.]
+<40> [Customer40 goes to Bimbo's queue.]
+<41> [Customer41 goes to Alex's queue.]
+<42> [Customer42 goes to Bimbo's queue.]
+<43> [Customer18 was served by Alex.]
+<43> Customer18: "Na shledanou. Tesim se na pristi navstevu."
+<43> [Customer43 goes to Alex's queue.]
+<43> [Customer19 started to be served by Alex.]
+<44> [Customer44 goes to Alex's queue.]
+<45> [Customer45 goes to Bimbo's queue.]
+<46> [Customer46 goes to Alex's queue.]
+<47> [Customer47 goes to Bimbo's queue.]
+<48> [Customer19 was served by Alex.]
+<48> Customer19: "Na shledanou. Tesim se na pristi navstevu."
+<48> Alex: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<48> Customer46: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer46 left Alex's queue.]
+<48> [Customer46 goes to Bimbo's queue.]
+<48> Customer44: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer44 left Alex's queue.]
+<48> [Customer44 goes to Bimbo's queue.]
+<48> Customer43: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer43 left Alex's queue.]
+<48> [Customer43 goes to Bimbo's queue.]
+<48> Customer41: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer41 left Alex's queue.]
+<48> [Customer41 goes to Bimbo's queue.]
+<48> Customer39: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer39 left Alex's queue.]
+<48> [Customer39 goes to Bimbo's queue.]
+<48> Customer38: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer38 left Alex's queue.]
+<48> [Customer38 goes to Bimbo's queue.]
+<48> Customer36: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer36 left Alex's queue.]
+<48> [Customer36 goes to Bimbo's queue.]
+<48> Customer34: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer34 left Alex's queue.]
+<48> [Customer34 goes to Bimbo's queue.]
+<48> Customer33: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer33 left Alex's queue.]
+<48> [Customer33 goes to Bimbo's queue.]
+<48> Customer31: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer31 left Alex's queue.]
+<48> [Customer31 goes to Bimbo's queue.]
+<48> Customer29: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer29 left Alex's queue.]
+<48> [Customer29 goes to Bimbo's queue.]
+<48> Customer28: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer28 left Alex's queue.]
+<48> [Customer28 goes to Bimbo's queue.]
+<48> Customer26: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer26 left Alex's queue.]
+<48> [Customer26 goes to Bimbo's queue.]
+<48> Customer25: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer25 left Alex's queue.]
+<48> [Customer25 goes to Bimbo's queue.]
+<48> Customer24: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer24 left Alex's queue.]
+<48> [Customer24 goes to Bimbo's queue.]
+<48> Customer23: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer23 left Alex's queue.]
+<48> [Customer23 goes to Bimbo's queue.]
+<48> Customer22: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer22 left Alex's queue.]
+<48> [Customer22 goes to Bimbo's queue.]
+<48> Customer21: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer21 left Alex's queue.]
+<48> [Customer21 goes to Bimbo's queue.]
+<48> Customer20: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<48> [Customer20 left Alex's queue.]
+<48> [Customer20 goes to Bimbo's queue.]
+<48> [Customer48 goes to Bimbo's queue.]
+<49> [Customer49 goes to Bimbo's queue.]
+<50> [Customer50 goes to Bimbo's queue.]
+<51> [Customer51 goes to Bimbo's queue.]
+<52> [Customer52 goes to Bimbo's queue.]
+<53> [Customer53 goes to Bimbo's queue.]
+<54> [Customer54 goes to Bimbo's queue.]
+<55> Alex: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<55> [Customer55 goes to Alex's queue.]
+<55> [Customer55 started to be served by Alex.]
+<56> [Customer56 goes to Alex's queue.]
+<57> [Customer57 goes to Alex's queue.]
+<58> [Customer58 goes to Alex's queue.]
+<59> [Customer59 goes to Alex's queue.]
+<60> [Customer55 was served by Alex.]
+<60> Customer55: "Na shledanou. Tesim se na pristi navstevu."
+<60> [Customer60 goes to Alex's queue.]
+<60> [Customer56 started to be served by Alex.]
+<61> [Customer61 goes to Alex's queue.]
+<62> [Customer62 goes to Alex's queue.]
+<63> [Customer63 goes to Alex's queue.]
+<64> [Customer64 goes to Alex's queue.]
+<65> [Customer56 was served by Alex.]
+<65> Customer56: "Na shledanou. Tesim se na pristi navstevu."
+<65> [Customer65 goes to Alex's queue.]
+<65> [Customer57 started to be served by Alex.]
+<66> [Customer66 goes to Alex's queue.]
+<67> [Customer67 goes to Alex's queue.]
+<68> [Customer68 goes to Alex's queue.]
+<69> [Customer69 goes to Alex's queue.]
+<70> [Customer57 was served by Alex.]
+<70> Customer57: "Na shledanou. Tesim se na pristi navstevu."
+<70> [Customer70 goes to Alex's queue.]
+<70> [Customer58 started to be served by Alex.]
+<71> [Customer71 goes to Alex's queue.]
+<72> [Customer72 goes to Alex's queue.]
+<73> [Customer73 goes to Alex's queue.]
+<74> [Customer74 goes to Alex's queue.]
+<75> [Customer58 was served by Alex.]
+<75> Customer58: "Na shledanou. Tesim se na pristi navstevu."
+<75> [Customer75 goes to Alex's queue.]
+<75> [Customer59 started to be served by Alex.]
+<76> [Customer76 goes to Alex's queue.]
+<77> [Customer77 goes to Alex's queue.]
+<78> [Customer78 goes to Alex's queue.]
+<79> [Customer79 goes to Alex's queue.]
+<80> [Customer59 was served by Alex.]
+<80> Customer59: "Na shledanou. Tesim se na pristi navstevu."
+<80> [Customer80 goes to Alex's queue.]
+<80> [Customer60 started to be served by Alex.]
+<81> [Customer81 goes to Alex's queue.]
+<82> [Customer82 goes to Alex's queue.]
+<83> [Customer83 goes to Alex's queue.]
+<84> [Customer84 goes to Alex's queue.]
+<85> [Customer60 was served by Alex.]
+<85> Customer60: "Na shledanou. Tesim se na pristi navstevu."
+<85> [Customer85 goes to Alex's queue.]
+<85> [Customer61 started to be served by Alex.]
+<86> [Customer86 goes to Alex's queue.]
+<87> [Customer87 goes to Alex's queue.]
+<88> [Customer88 goes to Alex's queue.]
+<89> [Customer89 goes to Alex's queue.]
+<90> [Customer61 was served by Alex.]
+<90> Customer61: "Na shledanou. Tesim se na pristi navstevu."
+<90> Alex: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<90> Customer89: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer89 left Alex's queue.]
+<90> [Customer89 goes to Bimbo's queue.]
+<90> Customer88: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer88 left Alex's queue.]
+<90> [Customer88 goes to Bimbo's queue.]
+<90> Customer87: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer87 left Alex's queue.]
+<90> [Customer87 goes to Bimbo's queue.]
+<90> Customer86: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer86 left Alex's queue.]
+<90> [Customer86 goes to Bimbo's queue.]
+<90> Customer85: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer85 left Alex's queue.]
+<90> [Customer85 goes to Bimbo's queue.]
+<90> Customer84: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer84 left Alex's queue.]
+<90> [Customer84 goes to Bimbo's queue.]
+<90> Customer83: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer83 left Alex's queue.]
+<90> [Customer83 goes to Bimbo's queue.]
+<90> Customer82: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer82 left Alex's queue.]
+<90> [Customer82 goes to Bimbo's queue.]
+<90> Customer81: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer81 left Alex's queue.]
+<90> [Customer81 goes to Bimbo's queue.]
+<90> Customer80: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer80 left Alex's queue.]
+<90> [Customer80 goes to Bimbo's queue.]
+<90> Customer79: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer79 left Alex's queue.]
+<90> [Customer79 goes to Bimbo's queue.]
+<90> Customer78: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer78 left Alex's queue.]
+<90> [Customer78 goes to Bimbo's queue.]
+<90> Customer77: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer77 left Alex's queue.]
+<90> [Customer77 goes to Bimbo's queue.]
+<90> Customer76: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer76 left Alex's queue.]
+<90> [Customer76 goes to Bimbo's queue.]
+<90> Customer75: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer75 left Alex's queue.]
+<90> [Customer75 goes to Bimbo's queue.]
+<90> Customer74: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer74 left Alex's queue.]
+<90> [Customer74 goes to Bimbo's queue.]
+<90> Customer73: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer73 left Alex's queue.]
+<90> [Customer73 goes to Bimbo's queue.]
+<90> Customer72: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer72 left Alex's queue.]
+<90> [Customer72 goes to Bimbo's queue.]
+<90> Customer71: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer71 left Alex's queue.]
+<90> [Customer71 goes to Bimbo's queue.]
+<90> Customer70: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer70 left Alex's queue.]
+<90> [Customer70 goes to Bimbo's queue.]
+<90> Customer69: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer69 left Alex's queue.]
+<90> [Customer69 goes to Bimbo's queue.]
+<90> Customer68: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer68 left Alex's queue.]
+<90> [Customer68 goes to Bimbo's queue.]
+<90> Customer67: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer67 left Alex's queue.]
+<90> [Customer67 goes to Bimbo's queue.]
+<90> Customer66: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer66 left Alex's queue.]
+<90> [Customer66 goes to Bimbo's queue.]
+<90> Customer65: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer65 left Alex's queue.]
+<90> [Customer65 goes to Bimbo's queue.]
+<90> Customer64: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer64 left Alex's queue.]
+<90> [Customer64 goes to Bimbo's queue.]
+<90> Customer63: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer63 left Alex's queue.]
+<90> [Customer63 goes to Bimbo's queue.]
+<90> Customer62: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<90> [Customer62 left Alex's queue.]
+<90> [Customer62 goes to Bimbo's queue.]
+<90> [Customer90 goes to Bimbo's queue.]
+<91> [Customer91 goes to Bimbo's queue.]
+<92> [Customer92 goes to Bimbo's queue.]
+<93> [Customer93 goes to Bimbo's queue.]
+<94> [Customer94 goes to Bimbo's queue.]
+<95> [Customer95 goes to Bimbo's queue.]
+<96> [Customer96 goes to Bimbo's queue.]
+<97> Alex: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<97> [Customer97 goes to Alex's queue.]
+<97> [Customer97 started to be served by Alex.]
+<98> [Customer98 goes to Alex's queue.]
+<99> [Customer99 goes to Alex's queue.]
+<100> [Customer100 goes to Alex's queue.]
+<102> [Customer97 was served by Alex.]
+<102> Customer97: "Na shledanou. Tesim se na pristi navstevu."
+<102> [Customer98 started to be served by Alex.]
+<107> [Customer98 was served by Alex.]
+<107> Customer98: "Na shledanou. Tesim se na pristi navstevu."
+<107> [Customer99 started to be served by Alex.]
+<112> [Customer99 was served by Alex.]
+<112> Customer99: "Na shledanou. Tesim se na pristi navstevu."
+<112> [Customer100 started to be served by Alex.]
+<117> [Customer100 was served by Alex.]
+<117> Customer100: "Na shledanou. Tesim se na pristi navstevu."
+<117> Alex: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<1002> [Customer2 was served by Bimbo.]
+<1002> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<1002> Bimbo: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<1002> Customer96: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer96 left Bimbo's queue.]
+<1002> Customer96: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer96: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer95: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer95 left Bimbo's queue.]
+<1002> Customer95: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer95: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer94: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer94 left Bimbo's queue.]
+<1002> Customer94: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer94: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer93: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer93 left Bimbo's queue.]
+<1002> Customer93: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer93: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer92: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer92 left Bimbo's queue.]
+<1002> Customer92: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer92: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer91: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer91 left Bimbo's queue.]
+<1002> Customer91: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer91: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer90: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer90 left Bimbo's queue.]
+<1002> Customer90: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer90: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer62: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer62 left Bimbo's queue.]
+<1002> Customer62: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer62: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer63: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer63 left Bimbo's queue.]
+<1002> Customer63: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer63: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer64: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer64 left Bimbo's queue.]
+<1002> Customer64: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer64: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer65: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer65 left Bimbo's queue.]
+<1002> Customer65: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer65: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer66: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer66 left Bimbo's queue.]
+<1002> Customer66: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer66: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer67: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer67 left Bimbo's queue.]
+<1002> Customer67: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer67: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer68: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer68 left Bimbo's queue.]
+<1002> Customer68: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer68: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer69: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer69 left Bimbo's queue.]
+<1002> Customer69: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer69: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer70: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer70 left Bimbo's queue.]
+<1002> Customer70: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer70: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer71: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer71 left Bimbo's queue.]
+<1002> Customer71: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer71: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer72: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer72 left Bimbo's queue.]
+<1002> Customer72: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer72: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer73: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer73 left Bimbo's queue.]
+<1002> Customer73: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer73: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer74: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer74 left Bimbo's queue.]
+<1002> Customer74: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer74: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer75: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer75 left Bimbo's queue.]
+<1002> Customer75: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer75: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer76: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer76 left Bimbo's queue.]
+<1002> Customer76: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer76: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer77: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer77 left Bimbo's queue.]
+<1002> Customer77: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer77: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer78: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer78 left Bimbo's queue.]
+<1002> Customer78: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer78: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer79: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer79 left Bimbo's queue.]
+<1002> Customer79: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer79: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer80: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer80 left Bimbo's queue.]
+<1002> Customer80: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer80: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer81: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer81 left Bimbo's queue.]
+<1002> Customer81: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer81: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer82: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer82 left Bimbo's queue.]
+<1002> Customer82: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer82: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer83: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer83 left Bimbo's queue.]
+<1002> Customer83: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer83: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer84: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer84 left Bimbo's queue.]
+<1002> Customer84: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer84: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer85: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer85 left Bimbo's queue.]
+<1002> Customer85: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer85: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer86: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer86 left Bimbo's queue.]
+<1002> Customer86: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer86: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer87: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer87 left Bimbo's queue.]
+<1002> Customer87: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer87: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer88: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer88 left Bimbo's queue.]
+<1002> Customer88: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer88: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer89: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer89 left Bimbo's queue.]
+<1002> Customer89: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer89: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer54: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer54 left Bimbo's queue.]
+<1002> Customer54: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer54: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer53: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer53 left Bimbo's queue.]
+<1002> Customer53: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer53: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer52: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer52 left Bimbo's queue.]
+<1002> Customer52: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer52: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer51: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer51 left Bimbo's queue.]
+<1002> Customer51: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer51: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer50: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer50 left Bimbo's queue.]
+<1002> Customer50: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer50: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer49: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer49 left Bimbo's queue.]
+<1002> Customer49: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer49: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer48: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer48 left Bimbo's queue.]
+<1002> Customer48: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer48: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer20: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer20 left Bimbo's queue.]
+<1002> Customer20: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer20: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer21: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer21 left Bimbo's queue.]
+<1002> Customer21: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer21: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer22: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer22 left Bimbo's queue.]
+<1002> Customer22: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer22: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer23: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer23 left Bimbo's queue.]
+<1002> Customer23: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer23: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer24: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer24 left Bimbo's queue.]
+<1002> Customer24: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer24: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer25: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer25 left Bimbo's queue.]
+<1002> Customer25: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer25: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer26: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer26 left Bimbo's queue.]
+<1002> Customer26: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer26: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer28: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer28 left Bimbo's queue.]
+<1002> Customer28: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer28: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer29: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer29 left Bimbo's queue.]
+<1002> Customer29: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer29: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer31: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer31 left Bimbo's queue.]
+<1002> Customer31: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer31: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer33: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer33 left Bimbo's queue.]
+<1002> Customer33: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer33: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer34: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer34 left Bimbo's queue.]
+<1002> Customer34: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer34: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer36: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer36 left Bimbo's queue.]
+<1002> Customer36: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer36: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer38: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer38 left Bimbo's queue.]
+<1002> Customer38: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer38: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer39: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer39 left Bimbo's queue.]
+<1002> Customer39: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer39: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer41: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer41 left Bimbo's queue.]
+<1002> Customer41: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer41: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer43: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer43 left Bimbo's queue.]
+<1002> Customer43: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer43: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer44: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer44 left Bimbo's queue.]
+<1002> Customer44: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer44: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer46: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer46 left Bimbo's queue.]
+<1002> Customer46: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer46: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer47: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer47 left Bimbo's queue.]
+<1002> Customer47: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer47: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer45: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer45 left Bimbo's queue.]
+<1002> Customer45: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer45: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer42: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer42 left Bimbo's queue.]
+<1002> Customer42: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer42: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer40: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer40 left Bimbo's queue.]
+<1002> Customer40: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer40: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer37: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer37 left Bimbo's queue.]
+<1002> Customer37: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer37: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer35: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer35 left Bimbo's queue.]
+<1002> Customer35: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer35: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer32: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer32 left Bimbo's queue.]
+<1002> Customer32: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer32: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer30: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer30 left Bimbo's queue.]
+<1002> Customer30: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer30: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer27: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer27 left Bimbo's queue.]
+<1002> Customer27: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer27: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer12: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer12 left Bimbo's queue.]
+<1002> Customer12: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer12: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer11: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer11 left Bimbo's queue.]
+<1002> Customer11: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer11: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer10: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer10 left Bimbo's queue.]
+<1002> Customer10: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer10: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer9: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer9 left Bimbo's queue.]
+<1002> Customer9: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer9: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer8: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer8 left Bimbo's queue.]
+<1002> Customer8: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer8: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer7: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer7 left Bimbo's queue.]
+<1002> Customer7: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer7: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer6: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer6 left Bimbo's queue.]
+<1002> Customer6: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer6: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer3: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer3 left Bimbo's queue.]
+<1002> Customer3: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer3: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer5 left Bimbo's queue.]
+<1002> Customer5: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer5: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer4: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer4 left Bimbo's queue.]
+<1002> Customer4: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer4: "Sbohem. Sem uz teda nikdy nepachnu."
+<1009> Bimbo: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1009> Bimbo: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

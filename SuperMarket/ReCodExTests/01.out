@@ -1,0 +1,50 @@
+<0> Alena: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Sasa: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Karel: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Alena's queue.]
+<1> [Customer1 started to be served by Alena.]
+<2> [Customer1 was served by Alena.]
+<2> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<2> [Customer2 goes to Alena's queue.]
+<2> [Customer2 started to be served by Alena.]
+<3> [Customer2 was served by Alena.]
+<3> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<3> [Customer3 goes to Alena's queue.]
+<3> [Customer3 started to be served by Alena.]
+<4> [Customer3 was served by Alena.]
+<4> Customer3: "Na shledanou. Tesim se na pristi navstevu."
+<4> [Customer4 goes to Alena's queue.]
+<4> [Customer4 started to be served by Alena.]
+<5> [Customer4 was served by Alena.]
+<5> Customer4: "Na shledanou. Tesim se na pristi navstevu."
+<5> Alena: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<5> [Customer5 goes to Sasa's queue.]
+<5> [Customer5 started to be served by Sasa.]
+<6> [Customer5 was served by Sasa.]
+<6> Customer5: "Na shledanou. Tesim se na pristi navstevu."
+<6> [Customer6 goes to Sasa's queue.]
+<6> [Customer6 started to be served by Sasa.]
+<7> [Customer6 was served by Sasa.]
+<7> Customer6: "Na shledanou. Tesim se na pristi navstevu."
+<7> [Customer7 goes to Sasa's queue.]
+<7> [Customer7 started to be served by Sasa.]
+<8> [Customer7 was served by Sasa.]
+<8> Customer7: "Na shledanou. Tesim se na pristi navstevu."
+<8> [Customer8 goes to Sasa's queue.]
+<8> [Customer8 started to be served by Sasa.]
+<9> [Customer8 was served by Sasa.]
+<9> Customer8: "Na shledanou. Tesim se na pristi navstevu."
+<9> [Customer9 goes to Sasa's queue.]
+<9> [Customer9 started to be served by Sasa.]
+<10> [Customer9 was served by Sasa.]
+<10> Customer9: "Na shledanou. Tesim se na pristi navstevu."
+<10> Sasa: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<10> [Customer10 goes to Karel's queue.]
+<10> [Customer10 started to be served by Karel.]
+<11> [Customer10 was served by Karel.]
+<11> Customer10: "Na shledanou. Tesim se na pristi navstevu."
+<11> Karel: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<12> Alena: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<12> Alena: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<17> Sasa: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<17> Sasa: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

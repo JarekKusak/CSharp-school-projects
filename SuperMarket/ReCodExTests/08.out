@@ -1,0 +1,407 @@
+<0> Anna: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Bolek: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Anna's queue.]
+<1> [Customer1 started to be served by Anna.]
+<2> [Customer2 goes to Bolek's queue.]
+<2> [Customer2 started to be served by Bolek.]
+<3> [Customer3 goes to Cecil's queue.]
+<3> [Customer3 started to be served by Cecil.]
+<4> [Customer4 goes to Anna's queue.]
+<5> [Customer5 goes to Bolek's queue.]
+<6> [Customer6 goes to Cecil's queue.]
+<7> [Customer7 goes to Anna's queue.]
+<8> [Customer8 goes to Bolek's queue.]
+<9> [Customer9 goes to Cecil's queue.]
+<10> [Customer10 goes to Anna's queue.]
+<11> [Customer11 goes to Bolek's queue.]
+<12> [Customer1 was served by Anna.]
+<12> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<12> Anna: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<12> Customer10: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer10 left Anna's queue.]
+<12> [Customer10 goes to Cecil's queue.]
+<12> Customer7: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer7 left Anna's queue.]
+<12> [Customer7 goes to Bolek's queue.]
+<12> Customer4: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer4 left Anna's queue.]
+<12> [Customer4 goes to Cecil's queue.]
+<12> [Customer12 goes to Bolek's queue.]
+<13> [Customer13 goes to Cecil's queue.]
+<14> Customer14: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<14> Customer14: "Sbohem. Sem uz teda nikdy nepachnu."
+<15> Customer15: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<15> Customer15: "Sbohem. Sem uz teda nikdy nepachnu."
+<16> Customer16: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<16> Customer16: "Sbohem. Sem uz teda nikdy nepachnu."
+<17> Customer17: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<17> Customer17: "Sbohem. Sem uz teda nikdy nepachnu."
+<18> Customer18: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<18> Customer18: "Sbohem. Sem uz teda nikdy nepachnu."
+<19> Anna: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<19> [Customer2 was served by Bolek.]
+<19> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<19> Bolek: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<19> Customer12: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<19> [Customer12 left Bolek's queue.]
+<19> [Customer12 goes to Anna's queue.]
+<19> Customer7: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<19> [Customer7 left Bolek's queue.]
+<19> [Customer7 goes to Anna's queue.]
+<19> Customer11: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<19> [Customer11 left Bolek's queue.]
+<19> [Customer11 goes to Anna's queue.]
+<19> Customer8: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<19> [Customer8 left Bolek's queue.]
+<19> [Customer8 goes to Anna's queue.]
+<19> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<19> [Customer5 left Bolek's queue.]
+<19> [Customer5 goes to Anna's queue.]
+<19> Customer19: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<19> Customer19: "Sbohem. Sem uz teda nikdy nepachnu."
+<19> [Customer12 started to be served by Anna.]
+<20> [Customer20 goes to Anna's queue.]
+<21> Customer21: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<21> Customer21: "Sbohem. Sem uz teda nikdy nepachnu."
+<22> [Customer3 was served by Cecil.]
+<22> Customer3: "Na shledanou. Tesim se na pristi navstevu."
+<22> Cecil: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<22> Customer13: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<22> [Customer13 left Cecil's queue.]
+<22> Customer13: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<22> Customer13: "Sbohem. Sem uz teda nikdy nepachnu."
+<22> Customer4: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<22> [Customer4 left Cecil's queue.]
+<22> Customer4: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<22> Customer4: "Sbohem. Sem uz teda nikdy nepachnu."
+<22> Customer10: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<22> [Customer10 left Cecil's queue.]
+<22> Customer10: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<22> Customer10: "Sbohem. Sem uz teda nikdy nepachnu."
+<22> Customer9: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<22> [Customer9 left Cecil's queue.]
+<22> Customer9: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<22> Customer9: "Sbohem. Sem uz teda nikdy nepachnu."
+<22> Customer6: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<22> [Customer6 left Cecil's queue.]
+<22> Customer6: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<22> Customer6: "Sbohem. Sem uz teda nikdy nepachnu."
+<22> Customer22: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<22> Customer22: "Sbohem. Sem uz teda nikdy nepachnu."
+<23> Customer23: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<23> Customer23: "Sbohem. Sem uz teda nikdy nepachnu."
+<24> Customer24: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<24> Customer24: "Sbohem. Sem uz teda nikdy nepachnu."
+<25> Customer25: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<25> Customer25: "Sbohem. Sem uz teda nikdy nepachnu."
+<26> Bolek: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<26> [Customer26 goes to Bolek's queue.]
+<26> [Customer26 started to be served by Bolek.]
+<27> [Customer27 goes to Bolek's queue.]
+<28> [Customer28 goes to Bolek's queue.]
+<29> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<29> [Customer29 goes to Cecil's queue.]
+<29> [Customer29 started to be served by Cecil.]
+<30> [Customer12 was served by Anna.]
+<30> Customer12: "Na shledanou. Tesim se na pristi navstevu."
+<30> [Customer30 goes to Cecil's queue.]
+<30> [Customer7 started to be served by Anna.]
+<31> [Customer31 goes to Cecil's queue.]
+<32> [Customer32 goes to Bolek's queue.]
+<33> [Customer33 goes to Cecil's queue.]
+<34> [Customer34 goes to Bolek's queue.]
+<35> [Customer35 goes to Cecil's queue.]
+<36> [Customer36 goes to Anna's queue.]
+<37> [Customer37 goes to Bolek's queue.]
+<38> [Customer38 goes to Cecil's queue.]
+<39> Customer39: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<39> Customer39: "Sbohem. Sem uz teda nikdy nepachnu."
+<40> Customer40: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<40> Customer40: "Sbohem. Sem uz teda nikdy nepachnu."
+<41> [Customer7 was served by Anna.]
+<41> Customer7: "Na shledanou. Tesim se na pristi navstevu."
+<41> Customer41: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<41> Customer41: "Sbohem. Sem uz teda nikdy nepachnu."
+<41> [Customer11 started to be served by Anna.]
+<42> [Customer42 goes to Anna's queue.]
+<43> [Customer26 was served by Bolek.]
+<43> Customer26: "Na shledanou. Tesim se na pristi navstevu."
+<43> Customer43: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<43> Customer43: "Sbohem. Sem uz teda nikdy nepachnu."
+<43> [Customer27 started to be served by Bolek.]
+<44> [Customer44 goes to Bolek's queue.]
+<45> Customer45: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<45> Customer45: "Sbohem. Sem uz teda nikdy nepachnu."
+<46> Customer46: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<46> Customer46: "Sbohem. Sem uz teda nikdy nepachnu."
+<47> Customer47: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<47> Customer47: "Sbohem. Sem uz teda nikdy nepachnu."
+<48> [Customer29 was served by Cecil.]
+<48> Customer29: "Na shledanou. Tesim se na pristi navstevu."
+<48> Customer48: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<48> Customer48: "Sbohem. Sem uz teda nikdy nepachnu."
+<48> [Customer30 started to be served by Cecil.]
+<49> [Customer49 goes to Cecil's queue.]
+<50> Customer50: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<50> Customer50: "Sbohem. Sem uz teda nikdy nepachnu."
+<51> Customer51: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<51> Customer51: "Sbohem. Sem uz teda nikdy nepachnu."
+<52> [Customer11 was served by Anna.]
+<52> Customer11: "Na shledanou. Tesim se na pristi navstevu."
+<52> Anna: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<52> Customer42: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<52> [Customer42 left Anna's queue.]
+<52> Customer42: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<52> Customer42: "Sbohem. Sem uz teda nikdy nepachnu."
+<52> Customer36: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<52> [Customer36 left Anna's queue.]
+<52> Customer36: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<52> Customer36: "Sbohem. Sem uz teda nikdy nepachnu."
+<52> Customer20: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<52> [Customer20 left Anna's queue.]
+<52> Customer20: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<52> Customer20: "Sbohem. Sem uz teda nikdy nepachnu."
+<52> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<52> [Customer5 left Anna's queue.]
+<52> Customer5: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<52> Customer5: "Sbohem. Sem uz teda nikdy nepachnu."
+<52> Customer8: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<52> [Customer8 left Anna's queue.]
+<52> Customer8: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<52> Customer8: "Sbohem. Sem uz teda nikdy nepachnu."
+<52> Customer52: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<52> Customer52: "Sbohem. Sem uz teda nikdy nepachnu."
+<53> Customer53: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<53> Customer53: "Sbohem. Sem uz teda nikdy nepachnu."
+<54> Customer54: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<54> Customer54: "Sbohem. Sem uz teda nikdy nepachnu."
+<55> Customer55: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<55> Customer55: "Sbohem. Sem uz teda nikdy nepachnu."
+<56> Customer56: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<56> Customer56: "Sbohem. Sem uz teda nikdy nepachnu."
+<57> Customer57: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<57> Customer57: "Sbohem. Sem uz teda nikdy nepachnu."
+<58> Customer58: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<58> Customer58: "Sbohem. Sem uz teda nikdy nepachnu."
+<59> Anna: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<59> [Customer59 goes to Anna's queue.]
+<59> [Customer59 started to be served by Anna.]
+<60> [Customer27 was served by Bolek.]
+<60> Customer27: "Na shledanou. Tesim se na pristi navstevu."
+<60> Bolek: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<60> Customer44: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<60> [Customer44 left Bolek's queue.]
+<60> [Customer44 goes to Anna's queue.]
+<60> Customer37: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<60> [Customer37 left Bolek's queue.]
+<60> [Customer37 goes to Anna's queue.]
+<60> Customer34: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<60> [Customer34 left Bolek's queue.]
+<60> [Customer34 goes to Anna's queue.]
+<60> Customer32: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<60> [Customer32 left Bolek's queue.]
+<60> [Customer32 goes to Anna's queue.]
+<60> Customer28: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<60> [Customer28 left Bolek's queue.]
+<60> [Customer28 goes to Anna's queue.]
+<60> Customer60: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<60> Customer60: "Sbohem. Sem uz teda nikdy nepachnu."
+<61> Customer61: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<61> Customer61: "Sbohem. Sem uz teda nikdy nepachnu."
+<62> Customer62: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<62> Customer62: "Sbohem. Sem uz teda nikdy nepachnu."
+<63> Customer63: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<63> Customer63: "Sbohem. Sem uz teda nikdy nepachnu."
+<64> Customer64: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<64> Customer64: "Sbohem. Sem uz teda nikdy nepachnu."
+<65> Customer65: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<65> Customer65: "Sbohem. Sem uz teda nikdy nepachnu."
+<66> Customer66: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<66> Customer66: "Sbohem. Sem uz teda nikdy nepachnu."
+<67> Bolek: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<67> [Customer30 was served by Cecil.]
+<67> Customer30: "Na shledanou. Tesim se na pristi navstevu."
+<67> Cecil: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<67> Customer49: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<67> [Customer49 left Cecil's queue.]
+<67> [Customer49 goes to Bolek's queue.]
+<67> Customer38: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<67> [Customer38 left Cecil's queue.]
+<67> [Customer38 goes to Bolek's queue.]
+<67> Customer35: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<67> [Customer35 left Cecil's queue.]
+<67> [Customer35 goes to Bolek's queue.]
+<67> Customer33: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<67> [Customer33 left Cecil's queue.]
+<67> [Customer33 goes to Bolek's queue.]
+<67> Customer31: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<67> [Customer31 left Cecil's queue.]
+<67> [Customer31 goes to Bolek's queue.]
+<67> Customer67: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<67> Customer67: "Sbohem. Sem uz teda nikdy nepachnu."
+<67> [Customer49 started to be served by Bolek.]
+<68> [Customer68 goes to Bolek's queue.]
+<69> Customer69: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<69> Customer69: "Sbohem. Sem uz teda nikdy nepachnu."
+<70> [Customer59 was served by Anna.]
+<70> Customer59: "Na shledanou. Tesim se na pristi navstevu."
+<70> Customer70: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<70> Customer70: "Sbohem. Sem uz teda nikdy nepachnu."
+<70> [Customer44 started to be served by Anna.]
+<71> [Customer71 goes to Anna's queue.]
+<72> Customer72: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<72> Customer72: "Sbohem. Sem uz teda nikdy nepachnu."
+<73> Customer73: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<73> Customer73: "Sbohem. Sem uz teda nikdy nepachnu."
+<74> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<74> [Customer74 goes to Cecil's queue.]
+<74> [Customer74 started to be served by Cecil.]
+<75> [Customer75 goes to Cecil's queue.]
+<76> [Customer76 goes to Cecil's queue.]
+<77> [Customer77 goes to Cecil's queue.]
+<78> [Customer78 goes to Cecil's queue.]
+<79> [Customer79 goes to Cecil's queue.]
+<80> Customer80: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<80> Customer80: "Sbohem. Sem uz teda nikdy nepachnu."
+<81> [Customer44 was served by Anna.]
+<81> Customer44: "Na shledanou. Tesim se na pristi navstevu."
+<81> Customer81: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<81> Customer81: "Sbohem. Sem uz teda nikdy nepachnu."
+<81> [Customer37 started to be served by Anna.]
+<82> [Customer82 goes to Anna's queue.]
+<83> Customer83: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<83> Customer83: "Sbohem. Sem uz teda nikdy nepachnu."
+<84> [Customer49 was served by Bolek.]
+<84> Customer49: "Na shledanou. Tesim se na pristi navstevu."
+<84> Customer84: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<84> Customer84: "Sbohem. Sem uz teda nikdy nepachnu."
+<84> [Customer38 started to be served by Bolek.]
+<85> [Customer85 goes to Bolek's queue.]
+<86> Customer86: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<86> Customer86: "Sbohem. Sem uz teda nikdy nepachnu."
+<87> Customer87: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<87> Customer87: "Sbohem. Sem uz teda nikdy nepachnu."
+<88> Customer88: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<88> Customer88: "Sbohem. Sem uz teda nikdy nepachnu."
+<89> Customer89: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<89> Customer89: "Sbohem. Sem uz teda nikdy nepachnu."
+<90> Customer90: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<90> Customer90: "Sbohem. Sem uz teda nikdy nepachnu."
+<91> Customer91: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<91> Customer91: "Sbohem. Sem uz teda nikdy nepachnu."
+<92> [Customer37 was served by Anna.]
+<92> Customer37: "Na shledanou. Tesim se na pristi navstevu."
+<92> Anna: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<92> Customer82: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<92> [Customer82 left Anna's queue.]
+<92> Customer82: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<92> Customer82: "Sbohem. Sem uz teda nikdy nepachnu."
+<92> Customer71: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<92> [Customer71 left Anna's queue.]
+<92> Customer71: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<92> Customer71: "Sbohem. Sem uz teda nikdy nepachnu."
+<92> Customer28: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<92> [Customer28 left Anna's queue.]
+<92> Customer28: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<92> Customer28: "Sbohem. Sem uz teda nikdy nepachnu."
+<92> Customer32: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<92> [Customer32 left Anna's queue.]
+<92> Customer32: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<92> Customer32: "Sbohem. Sem uz teda nikdy nepachnu."
+<92> Customer34: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<92> [Customer34 left Anna's queue.]
+<92> Customer34: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<92> Customer34: "Sbohem. Sem uz teda nikdy nepachnu."
+<92> Customer92: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<92> Customer92: "Sbohem. Sem uz teda nikdy nepachnu."
+<93> [Customer74 was served by Cecil.]
+<93> Customer74: "Na shledanou. Tesim se na pristi navstevu."
+<93> Customer93: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<93> Customer93: "Sbohem. Sem uz teda nikdy nepachnu."
+<93> [Customer75 started to be served by Cecil.]
+<94> [Customer94 goes to Cecil's queue.]
+<95> Customer95: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<95> Customer95: "Sbohem. Sem uz teda nikdy nepachnu."
+<96> Customer96: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<96> Customer96: "Sbohem. Sem uz teda nikdy nepachnu."
+<97> Customer97: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<97> Customer97: "Sbohem. Sem uz teda nikdy nepachnu."
+<98> Customer98: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<98> Customer98: "Sbohem. Sem uz teda nikdy nepachnu."
+<99> Anna: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<99> [Customer99 goes to Anna's queue.]
+<99> [Customer99 started to be served by Anna.]
+<100> [Customer100 goes to Anna's queue.]
+<101> [Customer38 was served by Bolek.]
+<101> Customer38: "Na shledanou. Tesim se na pristi navstevu."
+<101> Bolek: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<101> Customer85: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<101> [Customer85 left Bolek's queue.]
+<101> [Customer85 goes to Anna's queue.]
+<101> Customer68: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<101> [Customer68 left Bolek's queue.]
+<101> [Customer68 goes to Anna's queue.]
+<101> Customer31: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<101> [Customer31 left Bolek's queue.]
+<101> [Customer31 goes to Anna's queue.]
+<101> Customer33: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<101> [Customer33 left Bolek's queue.]
+<101> [Customer33 goes to Anna's queue.]
+<101> Customer35: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<101> [Customer35 left Bolek's queue.]
+<101> Customer35: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<101> Customer35: "Sbohem. Sem uz teda nikdy nepachnu."
+<108> Bolek: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<108> Bolek: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<110> [Customer99 was served by Anna.]
+<110> Customer99: "Na shledanou. Tesim se na pristi navstevu."
+<110> [Customer100 started to be served by Anna.]
+<112> [Customer75 was served by Cecil.]
+<112> Customer75: "Na shledanou. Tesim se na pristi navstevu."
+<112> Cecil: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<112> Customer94: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<112> [Customer94 left Cecil's queue.]
+<112> [Customer94 goes to Anna's queue.]
+<112> Customer79: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<112> [Customer79 left Cecil's queue.]
+<112> Customer79: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<112> Customer79: "Sbohem. Sem uz teda nikdy nepachnu."
+<112> Customer78: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<112> [Customer78 left Cecil's queue.]
+<112> Customer78: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<112> Customer78: "Sbohem. Sem uz teda nikdy nepachnu."
+<112> Customer77: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<112> [Customer77 left Cecil's queue.]
+<112> Customer77: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<112> Customer77: "Sbohem. Sem uz teda nikdy nepachnu."
+<112> Customer76: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<112> [Customer76 left Cecil's queue.]
+<112> Customer76: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<112> Customer76: "Sbohem. Sem uz teda nikdy nepachnu."
+<119> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<119> Cecil: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<121> [Customer100 was served by Anna.]
+<121> Customer100: "Na shledanou. Tesim se na pristi navstevu."
+<121> [Customer85 started to be served by Anna.]
+<132> [Customer85 was served by Anna.]
+<132> Customer85: "Na shledanou. Tesim se na pristi navstevu."
+<132> Anna: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<132> Customer94: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<132> [Customer94 left Anna's queue.]
+<132> Customer94: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<132> Customer94: "Sbohem. Sem uz teda nikdy nepachnu."
+<132> Customer33: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<132> [Customer33 left Anna's queue.]
+<132> Customer33: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<132> Customer33: "Sbohem. Sem uz teda nikdy nepachnu."
+<132> Customer31: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<132> [Customer31 left Anna's queue.]
+<132> Customer31: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<132> Customer31: "Sbohem. Sem uz teda nikdy nepachnu."
+<132> Customer68: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<132> [Customer68 left Anna's queue.]
+<132> Customer68: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<132> Customer68: "Sbohem. Sem uz teda nikdy nepachnu."
+<139> Anna: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<139> Anna: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

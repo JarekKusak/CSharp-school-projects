@@ -1,0 +1,438 @@
+<0> Alena: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Bara: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Daniel: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Evzen: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Alena's queue.]
+<1> [Customer1 started to be served by Alena.]
+<2> [Customer1 was served by Alena.]
+<2> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<2> [Customer2 goes to Alena's queue.]
+<2> [Customer2 started to be served by Alena.]
+<3> [Customer2 was served by Alena.]
+<3> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<3> [Customer3 goes to Alena's queue.]
+<3> [Customer3 started to be served by Alena.]
+<4> [Customer3 was served by Alena.]
+<4> Customer3: "Na shledanou. Tesim se na pristi navstevu."
+<4> [Customer4 goes to Alena's queue.]
+<4> [Customer4 started to be served by Alena.]
+<5> [Customer4 was served by Alena.]
+<5> Customer4: "Na shledanou. Tesim se na pristi navstevu."
+<5> Alena: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<5> [Customer5 goes to Bara's queue.]
+<5> [Customer5 started to be served by Bara.]
+<6> [Customer6 goes to Cecil's queue.]
+<6> [Customer6 started to be served by Cecil.]
+<7> [Customer5 was served by Bara.]
+<7> Customer5: "Na shledanou. Tesim se na pristi navstevu."
+<7> [Customer7 goes to Bara's queue.]
+<7> [Customer7 started to be served by Bara.]
+<8> [Customer8 goes to Daniel's queue.]
+<8> [Customer8 started to be served by Daniel.]
+<9> [Customer7 was served by Bara.]
+<9> Customer7: "Na shledanou. Tesim se na pristi navstevu."
+<9> [Customer6 was served by Cecil.]
+<9> Customer6: "Na shledanou. Tesim se na pristi navstevu."
+<9> [Customer9 goes to Bara's queue.]
+<9> [Customer9 started to be served by Bara.]
+<10> [Customer10 goes to Cecil's queue.]
+<10> [Customer10 started to be served by Cecil.]
+<11> [Customer9 was served by Bara.]
+<11> Customer9: "Na shledanou. Tesim se na pristi navstevu."
+<11> Bara: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<11> [Customer11 goes to Evzen's queue.]
+<11> [Customer11 started to be served by Evzen.]
+<12> Alena: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<12> [Customer12 goes to Alena's queue.]
+<12> [Customer12 started to be served by Alena.]
+<13> [Customer12 was served by Alena.]
+<13> Customer12: "Na shledanou. Tesim se na pristi navstevu."
+<13> [Customer10 was served by Cecil.]
+<13> Customer10: "Na shledanou. Tesim se na pristi navstevu."
+<13> [Customer8 was served by Daniel.]
+<13> Customer8: "Na shledanou. Tesim se na pristi navstevu."
+<13> [Customer13 goes to Alena's queue.]
+<13> [Customer13 started to be served by Alena.]
+<14> [Customer13 was served by Alena.]
+<14> Customer13: "Na shledanou. Tesim se na pristi navstevu."
+<14> [Customer14 goes to Alena's queue.]
+<14> [Customer14 started to be served by Alena.]
+<15> [Customer14 was served by Alena.]
+<15> Customer14: "Na shledanou. Tesim se na pristi navstevu."
+<15> Cecil: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<15> [Customer15 goes to Alena's queue.]
+<15> [Customer15 started to be served by Alena.]
+<16> [Customer15 was served by Alena.]
+<16> Customer15: "Na shledanou. Tesim se na pristi navstevu."
+<16> [Customer16 goes to Alena's queue.]
+<16> [Customer16 started to be served by Alena.]
+<17> [Customer16 was served by Alena.]
+<17> Customer16: "Na shledanou. Tesim se na pristi navstevu."
+<17> [Customer17 goes to Alena's queue.]
+<17> [Customer17 started to be served by Alena.]
+<18> Bara: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<18> [Customer17 was served by Alena.]
+<18> Customer17: "Na shledanou. Tesim se na pristi navstevu."
+<18> [Customer11 was served by Evzen.]
+<18> Customer11: "Na shledanou. Tesim se na pristi navstevu."
+<18> [Customer18 goes to Alena's queue.]
+<18> [Customer18 started to be served by Alena.]
+<19> [Customer18 was served by Alena.]
+<19> Customer18: "Na shledanou. Tesim se na pristi navstevu."
+<19> [Customer19 goes to Alena's queue.]
+<19> [Customer19 started to be served by Alena.]
+<20> [Customer19 was served by Alena.]
+<20> Customer19: "Na shledanou. Tesim se na pristi navstevu."
+<20> Daniel: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<20> [Customer20 goes to Alena's queue.]
+<20> [Customer20 started to be served by Alena.]
+<21> [Customer20 was served by Alena.]
+<21> Customer20: "Na shledanou. Tesim se na pristi navstevu."
+<21> [Customer21 goes to Alena's queue.]
+<21> [Customer21 started to be served by Alena.]
+<22> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<22> [Customer21 was served by Alena.]
+<22> Customer21: "Na shledanou. Tesim se na pristi navstevu."
+<22> [Customer22 goes to Alena's queue.]
+<22> [Customer22 started to be served by Alena.]
+<23> [Customer22 was served by Alena.]
+<23> Customer22: "Na shledanou. Tesim se na pristi navstevu."
+<23> [Customer23 goes to Alena's queue.]
+<23> [Customer23 started to be served by Alena.]
+<24> [Customer23 was served by Alena.]
+<24> Customer23: "Na shledanou. Tesim se na pristi navstevu."
+<24> [Customer24 goes to Alena's queue.]
+<24> [Customer24 started to be served by Alena.]
+<25> [Customer24 was served by Alena.]
+<25> Customer24: "Na shledanou. Tesim se na pristi navstevu."
+<25> Evzen: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<25> [Customer25 goes to Alena's queue.]
+<25> [Customer25 started to be served by Alena.]
+<26> [Customer25 was served by Alena.]
+<26> Customer25: "Na shledanou. Tesim se na pristi navstevu."
+<26> [Customer26 goes to Alena's queue.]
+<26> [Customer26 started to be served by Alena.]
+<27> Daniel: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<27> [Customer26 was served by Alena.]
+<27> Customer26: "Na shledanou. Tesim se na pristi navstevu."
+<27> [Customer27 goes to Alena's queue.]
+<27> [Customer27 started to be served by Alena.]
+<28> [Customer27 was served by Alena.]
+<28> Customer27: "Na shledanou. Tesim se na pristi navstevu."
+<28> [Customer28 goes to Alena's queue.]
+<28> [Customer28 started to be served by Alena.]
+<29> [Customer28 was served by Alena.]
+<29> Customer28: "Na shledanou. Tesim se na pristi navstevu."
+<29> [Customer29 goes to Alena's queue.]
+<29> [Customer29 started to be served by Alena.]
+<30> [Customer29 was served by Alena.]
+<30> Customer29: "Na shledanou. Tesim se na pristi navstevu."
+<30> [Customer30 goes to Alena's queue.]
+<30> [Customer30 started to be served by Alena.]
+<31> [Customer30 was served by Alena.]
+<31> Customer30: "Na shledanou. Tesim se na pristi navstevu."
+<31> [Customer31 goes to Alena's queue.]
+<31> [Customer31 started to be served by Alena.]
+<32> Evzen: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<32> [Customer31 was served by Alena.]
+<32> Customer31: "Na shledanou. Tesim se na pristi navstevu."
+<32> [Customer32 goes to Alena's queue.]
+<32> [Customer32 started to be served by Alena.]
+<33> [Customer32 was served by Alena.]
+<33> Customer32: "Na shledanou. Tesim se na pristi navstevu."
+<33> [Customer33 goes to Alena's queue.]
+<33> [Customer33 started to be served by Alena.]
+<34> [Customer33 was served by Alena.]
+<34> Customer33: "Na shledanou. Tesim se na pristi navstevu."
+<34> [Customer34 goes to Alena's queue.]
+<34> [Customer34 started to be served by Alena.]
+<35> [Customer34 was served by Alena.]
+<35> Customer34: "Na shledanou. Tesim se na pristi navstevu."
+<35> [Customer35 goes to Alena's queue.]
+<35> [Customer35 started to be served by Alena.]
+<36> [Customer35 was served by Alena.]
+<36> Customer35: "Na shledanou. Tesim se na pristi navstevu."
+<36> [Customer36 goes to Alena's queue.]
+<36> [Customer36 started to be served by Alena.]
+<37> [Customer36 was served by Alena.]
+<37> Customer36: "Na shledanou. Tesim se na pristi navstevu."
+<37> [Customer37 goes to Alena's queue.]
+<37> [Customer37 started to be served by Alena.]
+<38> [Customer37 was served by Alena.]
+<38> Customer37: "Na shledanou. Tesim se na pristi navstevu."
+<38> [Customer38 goes to Alena's queue.]
+<38> [Customer38 started to be served by Alena.]
+<39> [Customer38 was served by Alena.]
+<39> Customer38: "Na shledanou. Tesim se na pristi navstevu."
+<39> [Customer39 goes to Alena's queue.]
+<39> [Customer39 started to be served by Alena.]
+<40> [Customer39 was served by Alena.]
+<40> Customer39: "Na shledanou. Tesim se na pristi navstevu."
+<40> [Customer40 goes to Alena's queue.]
+<40> [Customer40 started to be served by Alena.]
+<41> [Customer40 was served by Alena.]
+<41> Customer40: "Na shledanou. Tesim se na pristi navstevu."
+<41> [Customer41 goes to Alena's queue.]
+<41> [Customer41 started to be served by Alena.]
+<42> [Customer41 was served by Alena.]
+<42> Customer41: "Na shledanou. Tesim se na pristi navstevu."
+<42> [Customer42 goes to Alena's queue.]
+<42> [Customer42 started to be served by Alena.]
+<43> [Customer42 was served by Alena.]
+<43> Customer42: "Na shledanou. Tesim se na pristi navstevu."
+<43> Alena: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<43> [Customer43 goes to Bara's queue.]
+<43> [Customer43 started to be served by Bara.]
+<44> [Customer44 goes to Cecil's queue.]
+<44> [Customer44 started to be served by Cecil.]
+<45> [Customer43 was served by Bara.]
+<45> Customer43: "Na shledanou. Tesim se na pristi navstevu."
+<45> [Customer45 goes to Bara's queue.]
+<45> [Customer45 started to be served by Bara.]
+<46> [Customer46 goes to Daniel's queue.]
+<46> [Customer46 started to be served by Daniel.]
+<47> [Customer45 was served by Bara.]
+<47> Customer45: "Na shledanou. Tesim se na pristi navstevu."
+<47> [Customer44 was served by Cecil.]
+<47> Customer44: "Na shledanou. Tesim se na pristi navstevu."
+<47> [Customer47 goes to Bara's queue.]
+<47> [Customer47 started to be served by Bara.]
+<48> [Customer48 goes to Cecil's queue.]
+<48> [Customer48 started to be served by Cecil.]
+<49> [Customer47 was served by Bara.]
+<49> Customer47: "Na shledanou. Tesim se na pristi navstevu."
+<49> Bara: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<49> [Customer49 goes to Evzen's queue.]
+<49> [Customer49 started to be served by Evzen.]
+<50> Alena: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<50> [Customer50 goes to Alena's queue.]
+<50> [Customer50 started to be served by Alena.]
+<51> [Customer50 was served by Alena.]
+<51> Customer50: "Na shledanou. Tesim se na pristi navstevu."
+<51> [Customer48 was served by Cecil.]
+<51> Customer48: "Na shledanou. Tesim se na pristi navstevu."
+<51> [Customer46 was served by Daniel.]
+<51> Customer46: "Na shledanou. Tesim se na pristi navstevu."
+<51> [Customer51 goes to Alena's queue.]
+<51> [Customer51 started to be served by Alena.]
+<52> [Customer51 was served by Alena.]
+<52> Customer51: "Na shledanou. Tesim se na pristi navstevu."
+<52> [Customer52 goes to Alena's queue.]
+<52> [Customer52 started to be served by Alena.]
+<53> [Customer52 was served by Alena.]
+<53> Customer52: "Na shledanou. Tesim se na pristi navstevu."
+<53> Cecil: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<53> [Customer53 goes to Alena's queue.]
+<53> [Customer53 started to be served by Alena.]
+<54> [Customer53 was served by Alena.]
+<54> Customer53: "Na shledanou. Tesim se na pristi navstevu."
+<54> [Customer54 goes to Alena's queue.]
+<54> [Customer54 started to be served by Alena.]
+<55> [Customer54 was served by Alena.]
+<55> Customer54: "Na shledanou. Tesim se na pristi navstevu."
+<55> [Customer55 goes to Alena's queue.]
+<55> [Customer55 started to be served by Alena.]
+<56> Bara: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<56> [Customer55 was served by Alena.]
+<56> Customer55: "Na shledanou. Tesim se na pristi navstevu."
+<56> [Customer49 was served by Evzen.]
+<56> Customer49: "Na shledanou. Tesim se na pristi navstevu."
+<56> [Customer56 goes to Alena's queue.]
+<56> [Customer56 started to be served by Alena.]
+<57> [Customer56 was served by Alena.]
+<57> Customer56: "Na shledanou. Tesim se na pristi navstevu."
+<57> [Customer57 goes to Alena's queue.]
+<57> [Customer57 started to be served by Alena.]
+<58> [Customer57 was served by Alena.]
+<58> Customer57: "Na shledanou. Tesim se na pristi navstevu."
+<58> Daniel: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<58> [Customer58 goes to Alena's queue.]
+<58> [Customer58 started to be served by Alena.]
+<59> [Customer58 was served by Alena.]
+<59> Customer58: "Na shledanou. Tesim se na pristi navstevu."
+<59> [Customer59 goes to Alena's queue.]
+<59> [Customer59 started to be served by Alena.]
+<60> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<60> [Customer59 was served by Alena.]
+<60> Customer59: "Na shledanou. Tesim se na pristi navstevu."
+<60> [Customer60 goes to Alena's queue.]
+<60> [Customer60 started to be served by Alena.]
+<61> [Customer60 was served by Alena.]
+<61> Customer60: "Na shledanou. Tesim se na pristi navstevu."
+<61> [Customer61 goes to Alena's queue.]
+<61> [Customer61 started to be served by Alena.]
+<62> [Customer61 was served by Alena.]
+<62> Customer61: "Na shledanou. Tesim se na pristi navstevu."
+<62> [Customer62 goes to Alena's queue.]
+<62> [Customer62 started to be served by Alena.]
+<63> [Customer62 was served by Alena.]
+<63> Customer62: "Na shledanou. Tesim se na pristi navstevu."
+<63> Evzen: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<63> [Customer63 goes to Alena's queue.]
+<63> [Customer63 started to be served by Alena.]
+<64> [Customer63 was served by Alena.]
+<64> Customer63: "Na shledanou. Tesim se na pristi navstevu."
+<64> [Customer64 goes to Alena's queue.]
+<64> [Customer64 started to be served by Alena.]
+<65> Daniel: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<65> [Customer64 was served by Alena.]
+<65> Customer64: "Na shledanou. Tesim se na pristi navstevu."
+<65> [Customer65 goes to Alena's queue.]
+<65> [Customer65 started to be served by Alena.]
+<66> [Customer65 was served by Alena.]
+<66> Customer65: "Na shledanou. Tesim se na pristi navstevu."
+<66> [Customer66 goes to Alena's queue.]
+<66> [Customer66 started to be served by Alena.]
+<67> [Customer66 was served by Alena.]
+<67> Customer66: "Na shledanou. Tesim se na pristi navstevu."
+<67> [Customer67 goes to Alena's queue.]
+<67> [Customer67 started to be served by Alena.]
+<68> [Customer67 was served by Alena.]
+<68> Customer67: "Na shledanou. Tesim se na pristi navstevu."
+<68> [Customer68 goes to Alena's queue.]
+<68> [Customer68 started to be served by Alena.]
+<69> [Customer68 was served by Alena.]
+<69> Customer68: "Na shledanou. Tesim se na pristi navstevu."
+<69> [Customer69 goes to Alena's queue.]
+<69> [Customer69 started to be served by Alena.]
+<70> Evzen: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<70> [Customer69 was served by Alena.]
+<70> Customer69: "Na shledanou. Tesim se na pristi navstevu."
+<70> [Customer70 goes to Alena's queue.]
+<70> [Customer70 started to be served by Alena.]
+<71> [Customer70 was served by Alena.]
+<71> Customer70: "Na shledanou. Tesim se na pristi navstevu."
+<71> [Customer71 goes to Alena's queue.]
+<71> [Customer71 started to be served by Alena.]
+<72> [Customer71 was served by Alena.]
+<72> Customer71: "Na shledanou. Tesim se na pristi navstevu."
+<72> [Customer72 goes to Alena's queue.]
+<72> [Customer72 started to be served by Alena.]
+<73> [Customer72 was served by Alena.]
+<73> Customer72: "Na shledanou. Tesim se na pristi navstevu."
+<73> [Customer73 goes to Alena's queue.]
+<73> [Customer73 started to be served by Alena.]
+<74> [Customer73 was served by Alena.]
+<74> Customer73: "Na shledanou. Tesim se na pristi navstevu."
+<74> [Customer74 goes to Alena's queue.]
+<74> [Customer74 started to be served by Alena.]
+<75> [Customer74 was served by Alena.]
+<75> Customer74: "Na shledanou. Tesim se na pristi navstevu."
+<75> [Customer75 goes to Alena's queue.]
+<75> [Customer75 started to be served by Alena.]
+<76> [Customer75 was served by Alena.]
+<76> Customer75: "Na shledanou. Tesim se na pristi navstevu."
+<76> [Customer76 goes to Alena's queue.]
+<76> [Customer76 started to be served by Alena.]
+<77> [Customer76 was served by Alena.]
+<77> Customer76: "Na shledanou. Tesim se na pristi navstevu."
+<77> [Customer77 goes to Alena's queue.]
+<77> [Customer77 started to be served by Alena.]
+<78> [Customer77 was served by Alena.]
+<78> Customer77: "Na shledanou. Tesim se na pristi navstevu."
+<78> [Customer78 goes to Alena's queue.]
+<78> [Customer78 started to be served by Alena.]
+<79> [Customer78 was served by Alena.]
+<79> Customer78: "Na shledanou. Tesim se na pristi navstevu."
+<79> [Customer79 goes to Alena's queue.]
+<79> [Customer79 started to be served by Alena.]
+<80> [Customer79 was served by Alena.]
+<80> Customer79: "Na shledanou. Tesim se na pristi navstevu."
+<80> [Customer80 goes to Alena's queue.]
+<80> [Customer80 started to be served by Alena.]
+<81> [Customer80 was served by Alena.]
+<81> Customer80: "Na shledanou. Tesim se na pristi navstevu."
+<81> Alena: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<81> [Customer81 goes to Bara's queue.]
+<81> [Customer81 started to be served by Bara.]
+<82> [Customer82 goes to Cecil's queue.]
+<82> [Customer82 started to be served by Cecil.]
+<83> [Customer81 was served by Bara.]
+<83> Customer81: "Na shledanou. Tesim se na pristi navstevu."
+<83> [Customer83 goes to Bara's queue.]
+<83> [Customer83 started to be served by Bara.]
+<84> [Customer84 goes to Daniel's queue.]
+<84> [Customer84 started to be served by Daniel.]
+<85> [Customer83 was served by Bara.]
+<85> Customer83: "Na shledanou. Tesim se na pristi navstevu."
+<85> [Customer82 was served by Cecil.]
+<85> Customer82: "Na shledanou. Tesim se na pristi navstevu."
+<85> [Customer85 goes to Bara's queue.]
+<85> [Customer85 started to be served by Bara.]
+<86> [Customer86 goes to Cecil's queue.]
+<86> [Customer86 started to be served by Cecil.]
+<87> [Customer85 was served by Bara.]
+<87> Customer85: "Na shledanou. Tesim se na pristi navstevu."
+<87> Bara: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<87> [Customer87 goes to Evzen's queue.]
+<87> [Customer87 started to be served by Evzen.]
+<88> Alena: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<88> [Customer88 goes to Alena's queue.]
+<88> [Customer88 started to be served by Alena.]
+<89> [Customer88 was served by Alena.]
+<89> Customer88: "Na shledanou. Tesim se na pristi navstevu."
+<89> [Customer86 was served by Cecil.]
+<89> Customer86: "Na shledanou. Tesim se na pristi navstevu."
+<89> [Customer84 was served by Daniel.]
+<89> Customer84: "Na shledanou. Tesim se na pristi navstevu."
+<89> [Customer89 goes to Alena's queue.]
+<89> [Customer89 started to be served by Alena.]
+<90> [Customer89 was served by Alena.]
+<90> Customer89: "Na shledanou. Tesim se na pristi navstevu."
+<90> [Customer90 goes to Alena's queue.]
+<90> [Customer90 started to be served by Alena.]
+<91> [Customer90 was served by Alena.]
+<91> Customer90: "Na shledanou. Tesim se na pristi navstevu."
+<91> Cecil: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<91> [Customer91 goes to Alena's queue.]
+<91> [Customer91 started to be served by Alena.]
+<92> [Customer91 was served by Alena.]
+<92> Customer91: "Na shledanou. Tesim se na pristi navstevu."
+<92> [Customer92 goes to Alena's queue.]
+<92> [Customer92 started to be served by Alena.]
+<93> [Customer92 was served by Alena.]
+<93> Customer92: "Na shledanou. Tesim se na pristi navstevu."
+<93> [Customer93 goes to Alena's queue.]
+<93> [Customer93 started to be served by Alena.]
+<94> Bara: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<94> [Customer93 was served by Alena.]
+<94> Customer93: "Na shledanou. Tesim se na pristi navstevu."
+<94> [Customer87 was served by Evzen.]
+<94> Customer87: "Na shledanou. Tesim se na pristi navstevu."
+<94> [Customer94 goes to Alena's queue.]
+<94> [Customer94 started to be served by Alena.]
+<95> [Customer94 was served by Alena.]
+<95> Customer94: "Na shledanou. Tesim se na pristi navstevu."
+<95> [Customer95 goes to Alena's queue.]
+<95> [Customer95 started to be served by Alena.]
+<96> [Customer95 was served by Alena.]
+<96> Customer95: "Na shledanou. Tesim se na pristi navstevu."
+<96> Daniel: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<96> [Customer96 goes to Alena's queue.]
+<96> [Customer96 started to be served by Alena.]
+<97> [Customer96 was served by Alena.]
+<97> Customer96: "Na shledanou. Tesim se na pristi navstevu."
+<97> [Customer97 goes to Alena's queue.]
+<97> [Customer97 started to be served by Alena.]
+<98> Cecil: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<98> [Customer97 was served by Alena.]
+<98> Customer97: "Na shledanou. Tesim se na pristi navstevu."
+<98> [Customer98 goes to Alena's queue.]
+<98> [Customer98 started to be served by Alena.]
+<99> [Customer98 was served by Alena.]
+<99> Customer98: "Na shledanou. Tesim se na pristi navstevu."
+<99> [Customer99 goes to Alena's queue.]
+<99> [Customer99 started to be served by Alena.]
+<100> [Customer99 was served by Alena.]
+<100> Customer99: "Na shledanou. Tesim se na pristi navstevu."
+<100> [Customer100 goes to Alena's queue.]
+<100> [Customer100 started to be served by Alena.]
+<100> Bara: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<100> Cecil: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<100> Evzen: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<101> [Customer100 was served by Alena.]
+<101> Customer100: "Na shledanou. Tesim se na pristi navstevu."
+<101> Alena: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<103> Daniel: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<103> Daniel: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

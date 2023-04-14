@@ -1,0 +1,366 @@
+<0> Sasa: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Sasa's queue.]
+<1> [Customer1 started to be served by Sasa.]
+<2> [Customer1 was served by Sasa.]
+<2> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<2> [Customer2 goes to Sasa's queue.]
+<2> [Customer2 started to be served by Sasa.]
+<3> [Customer2 was served by Sasa.]
+<3> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<3> [Customer3 goes to Sasa's queue.]
+<3> [Customer3 started to be served by Sasa.]
+<4> [Customer3 was served by Sasa.]
+<4> Customer3: "Na shledanou. Tesim se na pristi navstevu."
+<4> [Customer4 goes to Sasa's queue.]
+<4> [Customer4 started to be served by Sasa.]
+<5> [Customer4 was served by Sasa.]
+<5> Customer4: "Na shledanou. Tesim se na pristi navstevu."
+<5> Sasa: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<5> Customer5: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<5> Customer5: "Sbohem. Sem uz teda nikdy nepachnu."
+<6> Customer6: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<6> Customer6: "Sbohem. Sem uz teda nikdy nepachnu."
+<7> Customer7: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<7> Customer7: "Sbohem. Sem uz teda nikdy nepachnu."
+<8> Customer8: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<8> Customer8: "Sbohem. Sem uz teda nikdy nepachnu."
+<9> Customer9: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<9> Customer9: "Sbohem. Sem uz teda nikdy nepachnu."
+<10> Customer10: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<10> Customer10: "Sbohem. Sem uz teda nikdy nepachnu."
+<11> Customer11: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<11> Customer11: "Sbohem. Sem uz teda nikdy nepachnu."
+<12> Sasa: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<12> [Customer12 goes to Sasa's queue.]
+<12> [Customer12 started to be served by Sasa.]
+<13> [Customer12 was served by Sasa.]
+<13> Customer12: "Na shledanou. Tesim se na pristi navstevu."
+<13> [Customer13 goes to Sasa's queue.]
+<13> [Customer13 started to be served by Sasa.]
+<14> [Customer13 was served by Sasa.]
+<14> Customer13: "Na shledanou. Tesim se na pristi navstevu."
+<14> [Customer14 goes to Sasa's queue.]
+<14> [Customer14 started to be served by Sasa.]
+<15> [Customer14 was served by Sasa.]
+<15> Customer14: "Na shledanou. Tesim se na pristi navstevu."
+<15> [Customer15 goes to Sasa's queue.]
+<15> [Customer15 started to be served by Sasa.]
+<16> [Customer15 was served by Sasa.]
+<16> Customer15: "Na shledanou. Tesim se na pristi navstevu."
+<16> [Customer16 goes to Sasa's queue.]
+<16> [Customer16 started to be served by Sasa.]
+<17> [Customer16 was served by Sasa.]
+<17> Customer16: "Na shledanou. Tesim se na pristi navstevu."
+<17> [Customer17 goes to Sasa's queue.]
+<17> [Customer17 started to be served by Sasa.]
+<18> [Customer17 was served by Sasa.]
+<18> Customer17: "Na shledanou. Tesim se na pristi navstevu."
+<18> [Customer18 goes to Sasa's queue.]
+<18> [Customer18 started to be served by Sasa.]
+<19> [Customer18 was served by Sasa.]
+<19> Customer18: "Na shledanou. Tesim se na pristi navstevu."
+<19> [Customer19 goes to Sasa's queue.]
+<19> [Customer19 started to be served by Sasa.]
+<20> [Customer19 was served by Sasa.]
+<20> Customer19: "Na shledanou. Tesim se na pristi navstevu."
+<20> [Customer20 goes to Sasa's queue.]
+<20> [Customer20 started to be served by Sasa.]
+<21> [Customer20 was served by Sasa.]
+<21> Customer20: "Na shledanou. Tesim se na pristi navstevu."
+<21> [Customer21 goes to Sasa's queue.]
+<21> [Customer21 started to be served by Sasa.]
+<22> [Customer21 was served by Sasa.]
+<22> Customer21: "Na shledanou. Tesim se na pristi navstevu."
+<22> [Customer22 goes to Sasa's queue.]
+<22> [Customer22 started to be served by Sasa.]
+<23> [Customer22 was served by Sasa.]
+<23> Customer22: "Na shledanou. Tesim se na pristi navstevu."
+<23> [Customer23 goes to Sasa's queue.]
+<23> [Customer23 started to be served by Sasa.]
+<24> [Customer23 was served by Sasa.]
+<24> Customer23: "Na shledanou. Tesim se na pristi navstevu."
+<24> [Customer24 goes to Sasa's queue.]
+<24> [Customer24 started to be served by Sasa.]
+<25> [Customer24 was served by Sasa.]
+<25> Customer24: "Na shledanou. Tesim se na pristi navstevu."
+<25> [Customer25 goes to Sasa's queue.]
+<25> [Customer25 started to be served by Sasa.]
+<26> [Customer25 was served by Sasa.]
+<26> Customer25: "Na shledanou. Tesim se na pristi navstevu."
+<26> [Customer26 goes to Sasa's queue.]
+<26> [Customer26 started to be served by Sasa.]
+<27> [Customer26 was served by Sasa.]
+<27> Customer26: "Na shledanou. Tesim se na pristi navstevu."
+<27> [Customer27 goes to Sasa's queue.]
+<27> [Customer27 started to be served by Sasa.]
+<28> [Customer27 was served by Sasa.]
+<28> Customer27: "Na shledanou. Tesim se na pristi navstevu."
+<28> [Customer28 goes to Sasa's queue.]
+<28> [Customer28 started to be served by Sasa.]
+<29> [Customer28 was served by Sasa.]
+<29> Customer28: "Na shledanou. Tesim se na pristi navstevu."
+<29> [Customer29 goes to Sasa's queue.]
+<29> [Customer29 started to be served by Sasa.]
+<30> [Customer29 was served by Sasa.]
+<30> Customer29: "Na shledanou. Tesim se na pristi navstevu."
+<30> [Customer30 goes to Sasa's queue.]
+<30> [Customer30 started to be served by Sasa.]
+<31> [Customer30 was served by Sasa.]
+<31> Customer30: "Na shledanou. Tesim se na pristi navstevu."
+<31> [Customer31 goes to Sasa's queue.]
+<31> [Customer31 started to be served by Sasa.]
+<32> [Customer31 was served by Sasa.]
+<32> Customer31: "Na shledanou. Tesim se na pristi navstevu."
+<32> [Customer32 goes to Sasa's queue.]
+<32> [Customer32 started to be served by Sasa.]
+<33> [Customer32 was served by Sasa.]
+<33> Customer32: "Na shledanou. Tesim se na pristi navstevu."
+<33> [Customer33 goes to Sasa's queue.]
+<33> [Customer33 started to be served by Sasa.]
+<34> [Customer33 was served by Sasa.]
+<34> Customer33: "Na shledanou. Tesim se na pristi navstevu."
+<34> [Customer34 goes to Sasa's queue.]
+<34> [Customer34 started to be served by Sasa.]
+<35> [Customer34 was served by Sasa.]
+<35> Customer34: "Na shledanou. Tesim se na pristi navstevu."
+<35> [Customer35 goes to Sasa's queue.]
+<35> [Customer35 started to be served by Sasa.]
+<36> [Customer35 was served by Sasa.]
+<36> Customer35: "Na shledanou. Tesim se na pristi navstevu."
+<36> [Customer36 goes to Sasa's queue.]
+<36> [Customer36 started to be served by Sasa.]
+<37> [Customer36 was served by Sasa.]
+<37> Customer36: "Na shledanou. Tesim se na pristi navstevu."
+<37> [Customer37 goes to Sasa's queue.]
+<37> [Customer37 started to be served by Sasa.]
+<38> [Customer37 was served by Sasa.]
+<38> Customer37: "Na shledanou. Tesim se na pristi navstevu."
+<38> [Customer38 goes to Sasa's queue.]
+<38> [Customer38 started to be served by Sasa.]
+<39> [Customer38 was served by Sasa.]
+<39> Customer38: "Na shledanou. Tesim se na pristi navstevu."
+<39> [Customer39 goes to Sasa's queue.]
+<39> [Customer39 started to be served by Sasa.]
+<40> [Customer39 was served by Sasa.]
+<40> Customer39: "Na shledanou. Tesim se na pristi navstevu."
+<40> [Customer40 goes to Sasa's queue.]
+<40> [Customer40 started to be served by Sasa.]
+<41> [Customer40 was served by Sasa.]
+<41> Customer40: "Na shledanou. Tesim se na pristi navstevu."
+<41> [Customer41 goes to Sasa's queue.]
+<41> [Customer41 started to be served by Sasa.]
+<42> [Customer41 was served by Sasa.]
+<42> Customer41: "Na shledanou. Tesim se na pristi navstevu."
+<42> [Customer42 goes to Sasa's queue.]
+<42> [Customer42 started to be served by Sasa.]
+<43> [Customer42 was served by Sasa.]
+<43> Customer42: "Na shledanou. Tesim se na pristi navstevu."
+<43> Sasa: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<43> Customer43: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<43> Customer43: "Sbohem. Sem uz teda nikdy nepachnu."
+<44> Customer44: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<44> Customer44: "Sbohem. Sem uz teda nikdy nepachnu."
+<45> Customer45: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<45> Customer45: "Sbohem. Sem uz teda nikdy nepachnu."
+<46> Customer46: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<46> Customer46: "Sbohem. Sem uz teda nikdy nepachnu."
+<47> Customer47: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<47> Customer47: "Sbohem. Sem uz teda nikdy nepachnu."
+<48> Customer48: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<48> Customer48: "Sbohem. Sem uz teda nikdy nepachnu."
+<49> Customer49: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<49> Customer49: "Sbohem. Sem uz teda nikdy nepachnu."
+<50> Sasa: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<50> [Customer50 goes to Sasa's queue.]
+<50> [Customer50 started to be served by Sasa.]
+<51> [Customer50 was served by Sasa.]
+<51> Customer50: "Na shledanou. Tesim se na pristi navstevu."
+<51> [Customer51 goes to Sasa's queue.]
+<51> [Customer51 started to be served by Sasa.]
+<52> [Customer51 was served by Sasa.]
+<52> Customer51: "Na shledanou. Tesim se na pristi navstevu."
+<52> [Customer52 goes to Sasa's queue.]
+<52> [Customer52 started to be served by Sasa.]
+<53> [Customer52 was served by Sasa.]
+<53> Customer52: "Na shledanou. Tesim se na pristi navstevu."
+<53> [Customer53 goes to Sasa's queue.]
+<53> [Customer53 started to be served by Sasa.]
+<54> [Customer53 was served by Sasa.]
+<54> Customer53: "Na shledanou. Tesim se na pristi navstevu."
+<54> [Customer54 goes to Sasa's queue.]
+<54> [Customer54 started to be served by Sasa.]
+<55> [Customer54 was served by Sasa.]
+<55> Customer54: "Na shledanou. Tesim se na pristi navstevu."
+<55> [Customer55 goes to Sasa's queue.]
+<55> [Customer55 started to be served by Sasa.]
+<56> [Customer55 was served by Sasa.]
+<56> Customer55: "Na shledanou. Tesim se na pristi navstevu."
+<56> [Customer56 goes to Sasa's queue.]
+<56> [Customer56 started to be served by Sasa.]
+<57> [Customer56 was served by Sasa.]
+<57> Customer56: "Na shledanou. Tesim se na pristi navstevu."
+<57> [Customer57 goes to Sasa's queue.]
+<57> [Customer57 started to be served by Sasa.]
+<58> [Customer57 was served by Sasa.]
+<58> Customer57: "Na shledanou. Tesim se na pristi navstevu."
+<58> [Customer58 goes to Sasa's queue.]
+<58> [Customer58 started to be served by Sasa.]
+<59> [Customer58 was served by Sasa.]
+<59> Customer58: "Na shledanou. Tesim se na pristi navstevu."
+<59> [Customer59 goes to Sasa's queue.]
+<59> [Customer59 started to be served by Sasa.]
+<60> [Customer59 was served by Sasa.]
+<60> Customer59: "Na shledanou. Tesim se na pristi navstevu."
+<60> [Customer60 goes to Sasa's queue.]
+<60> [Customer60 started to be served by Sasa.]
+<61> [Customer60 was served by Sasa.]
+<61> Customer60: "Na shledanou. Tesim se na pristi navstevu."
+<61> [Customer61 goes to Sasa's queue.]
+<61> [Customer61 started to be served by Sasa.]
+<62> [Customer61 was served by Sasa.]
+<62> Customer61: "Na shledanou. Tesim se na pristi navstevu."
+<62> [Customer62 goes to Sasa's queue.]
+<62> [Customer62 started to be served by Sasa.]
+<63> [Customer62 was served by Sasa.]
+<63> Customer62: "Na shledanou. Tesim se na pristi navstevu."
+<63> [Customer63 goes to Sasa's queue.]
+<63> [Customer63 started to be served by Sasa.]
+<64> [Customer63 was served by Sasa.]
+<64> Customer63: "Na shledanou. Tesim se na pristi navstevu."
+<64> [Customer64 goes to Sasa's queue.]
+<64> [Customer64 started to be served by Sasa.]
+<65> [Customer64 was served by Sasa.]
+<65> Customer64: "Na shledanou. Tesim se na pristi navstevu."
+<65> [Customer65 goes to Sasa's queue.]
+<65> [Customer65 started to be served by Sasa.]
+<66> [Customer65 was served by Sasa.]
+<66> Customer65: "Na shledanou. Tesim se na pristi navstevu."
+<66> [Customer66 goes to Sasa's queue.]
+<66> [Customer66 started to be served by Sasa.]
+<67> [Customer66 was served by Sasa.]
+<67> Customer66: "Na shledanou. Tesim se na pristi navstevu."
+<67> [Customer67 goes to Sasa's queue.]
+<67> [Customer67 started to be served by Sasa.]
+<68> [Customer67 was served by Sasa.]
+<68> Customer67: "Na shledanou. Tesim se na pristi navstevu."
+<68> [Customer68 goes to Sasa's queue.]
+<68> [Customer68 started to be served by Sasa.]
+<69> [Customer68 was served by Sasa.]
+<69> Customer68: "Na shledanou. Tesim se na pristi navstevu."
+<69> [Customer69 goes to Sasa's queue.]
+<69> [Customer69 started to be served by Sasa.]
+<70> [Customer69 was served by Sasa.]
+<70> Customer69: "Na shledanou. Tesim se na pristi navstevu."
+<70> [Customer70 goes to Sasa's queue.]
+<70> [Customer70 started to be served by Sasa.]
+<71> [Customer70 was served by Sasa.]
+<71> Customer70: "Na shledanou. Tesim se na pristi navstevu."
+<71> [Customer71 goes to Sasa's queue.]
+<71> [Customer71 started to be served by Sasa.]
+<72> [Customer71 was served by Sasa.]
+<72> Customer71: "Na shledanou. Tesim se na pristi navstevu."
+<72> [Customer72 goes to Sasa's queue.]
+<72> [Customer72 started to be served by Sasa.]
+<73> [Customer72 was served by Sasa.]
+<73> Customer72: "Na shledanou. Tesim se na pristi navstevu."
+<73> [Customer73 goes to Sasa's queue.]
+<73> [Customer73 started to be served by Sasa.]
+<74> [Customer73 was served by Sasa.]
+<74> Customer73: "Na shledanou. Tesim se na pristi navstevu."
+<74> [Customer74 goes to Sasa's queue.]
+<74> [Customer74 started to be served by Sasa.]
+<75> [Customer74 was served by Sasa.]
+<75> Customer74: "Na shledanou. Tesim se na pristi navstevu."
+<75> [Customer75 goes to Sasa's queue.]
+<75> [Customer75 started to be served by Sasa.]
+<76> [Customer75 was served by Sasa.]
+<76> Customer75: "Na shledanou. Tesim se na pristi navstevu."
+<76> [Customer76 goes to Sasa's queue.]
+<76> [Customer76 started to be served by Sasa.]
+<77> [Customer76 was served by Sasa.]
+<77> Customer76: "Na shledanou. Tesim se na pristi navstevu."
+<77> [Customer77 goes to Sasa's queue.]
+<77> [Customer77 started to be served by Sasa.]
+<78> [Customer77 was served by Sasa.]
+<78> Customer77: "Na shledanou. Tesim se na pristi navstevu."
+<78> [Customer78 goes to Sasa's queue.]
+<78> [Customer78 started to be served by Sasa.]
+<79> [Customer78 was served by Sasa.]
+<79> Customer78: "Na shledanou. Tesim se na pristi navstevu."
+<79> [Customer79 goes to Sasa's queue.]
+<79> [Customer79 started to be served by Sasa.]
+<80> [Customer79 was served by Sasa.]
+<80> Customer79: "Na shledanou. Tesim se na pristi navstevu."
+<80> [Customer80 goes to Sasa's queue.]
+<80> [Customer80 started to be served by Sasa.]
+<81> [Customer80 was served by Sasa.]
+<81> Customer80: "Na shledanou. Tesim se na pristi navstevu."
+<81> Sasa: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<81> Customer81: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<81> Customer81: "Sbohem. Sem uz teda nikdy nepachnu."
+<82> Customer82: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<82> Customer82: "Sbohem. Sem uz teda nikdy nepachnu."
+<83> Customer83: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<83> Customer83: "Sbohem. Sem uz teda nikdy nepachnu."
+<84> Customer84: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<84> Customer84: "Sbohem. Sem uz teda nikdy nepachnu."
+<85> Customer85: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<85> Customer85: "Sbohem. Sem uz teda nikdy nepachnu."
+<86> Customer86: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<86> Customer86: "Sbohem. Sem uz teda nikdy nepachnu."
+<87> Customer87: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<87> Customer87: "Sbohem. Sem uz teda nikdy nepachnu."
+<88> Sasa: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<88> [Customer88 goes to Sasa's queue.]
+<88> [Customer88 started to be served by Sasa.]
+<89> [Customer88 was served by Sasa.]
+<89> Customer88: "Na shledanou. Tesim se na pristi navstevu."
+<89> [Customer89 goes to Sasa's queue.]
+<89> [Customer89 started to be served by Sasa.]
+<90> [Customer89 was served by Sasa.]
+<90> Customer89: "Na shledanou. Tesim se na pristi navstevu."
+<90> [Customer90 goes to Sasa's queue.]
+<90> [Customer90 started to be served by Sasa.]
+<91> [Customer90 was served by Sasa.]
+<91> Customer90: "Na shledanou. Tesim se na pristi navstevu."
+<91> [Customer91 goes to Sasa's queue.]
+<91> [Customer91 started to be served by Sasa.]
+<92> [Customer91 was served by Sasa.]
+<92> Customer91: "Na shledanou. Tesim se na pristi navstevu."
+<92> [Customer92 goes to Sasa's queue.]
+<92> [Customer92 started to be served by Sasa.]
+<93> [Customer92 was served by Sasa.]
+<93> Customer92: "Na shledanou. Tesim se na pristi navstevu."
+<93> [Customer93 goes to Sasa's queue.]
+<93> [Customer93 started to be served by Sasa.]
+<94> [Customer93 was served by Sasa.]
+<94> Customer93: "Na shledanou. Tesim se na pristi navstevu."
+<94> [Customer94 goes to Sasa's queue.]
+<94> [Customer94 started to be served by Sasa.]
+<95> [Customer94 was served by Sasa.]
+<95> Customer94: "Na shledanou. Tesim se na pristi navstevu."
+<95> [Customer95 goes to Sasa's queue.]
+<95> [Customer95 started to be served by Sasa.]
+<96> [Customer95 was served by Sasa.]
+<96> Customer95: "Na shledanou. Tesim se na pristi navstevu."
+<96> [Customer96 goes to Sasa's queue.]
+<96> [Customer96 started to be served by Sasa.]
+<97> [Customer96 was served by Sasa.]
+<97> Customer96: "Na shledanou. Tesim se na pristi navstevu."
+<97> [Customer97 goes to Sasa's queue.]
+<97> [Customer97 started to be served by Sasa.]
+<98> [Customer97 was served by Sasa.]
+<98> Customer97: "Na shledanou. Tesim se na pristi navstevu."
+<98> [Customer98 goes to Sasa's queue.]
+<98> [Customer98 started to be served by Sasa.]
+<99> [Customer98 was served by Sasa.]
+<99> Customer98: "Na shledanou. Tesim se na pristi navstevu."
+<99> [Customer99 goes to Sasa's queue.]
+<99> [Customer99 started to be served by Sasa.]
+<100> [Customer99 was served by Sasa.]
+<100> Customer99: "Na shledanou. Tesim se na pristi navstevu."
+<100> [Customer100 goes to Sasa's queue.]
+<100> [Customer100 started to be served by Sasa.]
+<101> [Customer100 was served by Sasa.]
+<101> Customer100: "Na shledanou. Tesim se na pristi navstevu."
+<101> Sasa: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

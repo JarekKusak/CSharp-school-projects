@@ -1,0 +1,68 @@
+<0> Andrea: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<0> Bocelli: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1> [Customer1 goes to Andrea's queue.]
+<1> [Customer1 started to be served by Andrea.]
+<2> [Customer2 goes to Bocelli's queue.]
+<2> [Customer2 started to be served by Bocelli.]
+<3> [Customer3 goes to Andrea's queue.]
+<4> [Customer4 goes to Bocelli's queue.]
+<5> [Customer5 goes to Andrea's queue.]
+<6> [Customer6 goes to Bocelli's queue.]
+<7> [Customer7 goes to Andrea's queue.]
+<8> [Customer8 goes to Bocelli's queue.]
+<9> [Customer9 goes to Andrea's queue.]
+<10> [Customer10 goes to Bocelli's queue.]
+<12> [Customer1 was served by Andrea.]
+<12> Customer1: "Na shledanou. Tesim se na pristi navstevu."
+<12> Andrea: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<12> Customer9: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer9 left Andrea's queue.]
+<12> [Customer9 goes to Bocelli's queue.]
+<12> Customer7: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer7 left Andrea's queue.]
+<12> [Customer7 goes to Bocelli's queue.]
+<12> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer5 left Andrea's queue.]
+<12> [Customer5 goes to Bocelli's queue.]
+<12> Customer3: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<12> [Customer3 left Andrea's queue.]
+<12> [Customer3 goes to Bocelli's queue.]
+<19> Andrea: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<19> Andrea: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."
+<1002> [Customer2 was served by Bocelli.]
+<1002> Customer2: "Na shledanou. Tesim se na pristi navstevu."
+<1002> Bocelli: "Pane sef, ja jdu na zachod. Zaviram tuhle kasu."
+<1002> Customer3: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer3 left Bocelli's queue.]
+<1002> Customer3: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer3: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer5: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer5 left Bocelli's queue.]
+<1002> Customer5: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer5: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer7: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer7 left Bocelli's queue.]
+<1002> Customer7: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer7: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer9: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer9 left Bocelli's queue.]
+<1002> Customer9: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer9: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer10: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer10 left Bocelli's queue.]
+<1002> Customer10: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer10: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer8: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer8 left Bocelli's queue.]
+<1002> Customer8: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer8: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer6: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer6 left Bocelli's queue.]
+<1002> Customer6: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer6: "Sbohem. Sem uz teda nikdy nepachnu."
+<1002> Customer4: "Ja se z toho zblaznim. Takze musim do jine fronty."
+<1002> [Customer4 left Bocelli's queue.]
+<1002> Customer4: "Dyt tady neni volna zadna kasa. Kaslu na cekani, mam dulezitejsi veci na praci."
+<1002> Customer4: "Sbohem. Sem uz teda nikdy nepachnu."
+<1009> Bocelli: "Pane sef, tak ja otviram tuhle kasu. Vzhuru do prace."
+<1009> Bocelli: "Pane sef, tak ja jdu domu. Zaviram tuhle kasu."

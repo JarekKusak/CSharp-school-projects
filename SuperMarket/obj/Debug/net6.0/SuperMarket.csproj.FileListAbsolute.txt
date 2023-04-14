@@ -1,0 +1,15 @@
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/bin/Debug/net6.0/SuperMarket
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/bin/Debug/net6.0/SuperMarket.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/bin/Debug/net6.0/SuperMarket.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.csproj.AssemblyReference.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.AssemblyInfoInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.AssemblyInfo.cs
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.csproj.CoreCompileInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/refint/SuperMarket.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/bin/Debug/net6.0/SuperMarket.deps.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/bin/Debug/net6.0/SuperMarket.runtimeconfig.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/SuperMarket.genruntimeconfig.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/SuperMarket/obj/Debug/net6.0/ref/SuperMarket.dll
