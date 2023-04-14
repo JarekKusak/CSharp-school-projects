@@ -1,0 +1,15 @@
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.csproj.AssemblyReference.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.AssemblyInfoInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.AssemblyInfo.cs
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.csproj.CoreCompileInputs.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/bin/Debug/net6.0/Odstavec
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/bin/Debug/net6.0/Odstavec.deps.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/bin/Debug/net6.0/Odstavec.runtimeconfig.json
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/bin/Debug/net6.0/Odstavec.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/bin/Debug/net6.0/Odstavec.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/refint/Odstavec.dll
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.pdb
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/Odstavec.genruntimeconfig.cache
+/Users/jaroslavkusak/Documents/programování/CsharpMac/Odstavec/obj/Debug/net6.0/ref/Odstavec.dll
